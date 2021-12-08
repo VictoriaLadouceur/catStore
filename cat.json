@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "itemName": "Pawsitron",
+            "desc": "Really medium sized hammock, perfect for medium cat.",
+            "price": 10.00,
+            "imageName": "catHammock.jpg"
+        },
+        {
+            "itemName": "Groomy",
+            "desc": "Massive hammock. Sturdy. Good for chonkers.",
+            "price": 25.00,
+            "imageName": "catWindowPerch.jpg"
+        },
+        {
+            "itemName": "Purrfection",
+            "desc": "Mini hammock for kittens.",
+            "price": 9.99,
+            "imageName": "wallPerch.jpg"
+        }
+    ]
+}
